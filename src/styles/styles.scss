@@ -1,0 +1,22 @@
+/* Variables */
+$vin-blue: #5bb7db;
+$vin-green: #60b044;
+$vin-red: #ff0000;
+
+/* Styles */
+body {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  margin: 20px 100px;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-size: large;
+}
+
+#filter {
+  // width: 300px;
+  // height: 50px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}

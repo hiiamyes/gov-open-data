@@ -1,0 +1,5 @@
+export const LOAD = 'LOAD';
+export const UPDATE_FILTER = 'UPDATE_FILTER';
+
+export const SAVE_FUEL_SAVINGS = 'SAVE_FUEL_SAVINGS';
+export const CALCULATE_FUEL_SAVINGS = 'CALCULATE_FUEL_SAVINGS';
