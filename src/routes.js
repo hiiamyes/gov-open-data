@@ -7,7 +7,7 @@ import AboutPage from './components/AboutPage.js';
 import NotFoundPage from './components/NotFoundPage.js';
 
 export default (
-  <Route path="gov-open-data/" component={FuelSavingsPage}>
+  <Route path="/gov-open-data/" component={FuelSavingsPage}>
     <IndexRoute component={FuelSavingsPage} />
     <Route path="about" component={AboutPage}/>
     <Route path="*" component={NotFoundPage} />
